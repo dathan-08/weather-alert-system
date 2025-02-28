@@ -10,14 +10,14 @@ fetches weather data from a publlic API.
 - OpenWeatherMap API
 
 ## Installation
-1. Clone the repository
+#. Clone the repository
 
-2.npm install
+#npm install
 
-3.set up .nev
+#set up .nev
     API_KEY=your_openweathermap_api_key
     DB_URI=mongodb://localhost:27017/weather_alerts
     PORT=3000
 
-4.Start the server.
+#Start the server
     npm run dev
